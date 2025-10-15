@@ -1,6 +1,9 @@
 Nama : Muhammad Rabbani Arabi
+
 Nim    : 312410632
+
 Kelas  : TI.24.A5
+
 Tugas Lab ke4
 
  <img width="624" height="351" alt="image" src="https://github.com/user-attachments/assets/d58b1bb3-1028-4c3d-939a-a3d283684fec" />
